@@ -61,9 +61,9 @@ Al terminar de maquetar el sitio deberás:
 
 - Hacer un deploy automático de la actividad usando el plugin [duplicator](https://wordpress.org/plugins/duplicator/)
 
-Cuando termines  el desafío tendrás el siguiente resultado:
+Cuando termines el desafío tendrás el siguiente resultado:
 
-![](/Volumes/GoogleDrive/My Drive/Cursos/Wordpress/Semana 4 - Personalizando un tema de Wordpress/7-desafios/ACT_1/assets/screenshot.gif)
+![Resultado desafío](assets/screenshot.gif)
 
 
 
