@@ -1,0 +1,26 @@
+#color1 {
+    background-color: #7CEA9C;
+    color: #7CEA9C;
+}
+
+#color2 {
+    color: #2D3047;
+}
+
+#color3 {
+    color: #071013;
+}
+
+#blanco {
+    color: #FFFFFF;
+}
+
+#side {
+    background-color: #7CEA9C;
+}
+
+html,
+body,
+* {
+    font-family: 'Lato';
+}
